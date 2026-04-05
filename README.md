@@ -1,2 +1,2 @@
-# Welcome to Tumble!  a satirical dating app for learning purposes
+# Welcome to Tumble!  
 ## Why Tumble?
