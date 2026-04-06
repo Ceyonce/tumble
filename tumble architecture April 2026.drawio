@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Q4A288Aiih-HInUAMKtn">
+    <mxGraphModel dx="2135" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u5YWRfnk8CGUmcwdqZW1-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Client browser&lt;div&gt;(note, does not support&lt;br&gt;mobile)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="20" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0UlGHhRECRGsj-X1Xz-y-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CDN (cache)&amp;nbsp;&lt;div&gt;for static assets&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="210" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UlGHhRECRGsj-X1Xz-y-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="S3 (or some equivalent for static assets)" vertex="1">
+          <mxGeometry height="80" width="120" x="630" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
